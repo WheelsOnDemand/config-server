@@ -69,7 +69,7 @@
 				<version>3.4.1</version>
 				<configuration>
 					<to>
-						<image>wheelsondemand/configserver</image>
+						<image>${REPO_URL}/configserver</image>
 					</to>
 				</configuration>
 			</plugin>
